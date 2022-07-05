@@ -1,0 +1,14 @@
+{
+    "soccsksargen":{
+        "defaults" :{
+            "provinces": "South Cotabato",
+            "municipality": "General Santos"
+        },
+        "provinces":{
+            "South Cotabato" : ["General Santos"]
+        }
+       
+        
+    }
+    
+}

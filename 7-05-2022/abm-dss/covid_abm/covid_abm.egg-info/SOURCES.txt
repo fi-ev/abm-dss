@@ -1,0 +1,13 @@
+pyproject.toml
+setup.cfg
+covid_abm/__init__.py
+covid_abm/contact_networks.py
+covid_abm/defaults.py
+covid_abm/interventions.py
+covid_abm/main.py
+covid_abm/people.py
+covid_abm.egg-info/PKG-INFO
+covid_abm.egg-info/SOURCES.txt
+covid_abm.egg-info/dependency_links.txt
+covid_abm.egg-info/requires.txt
+covid_abm.egg-info/top_level.txt

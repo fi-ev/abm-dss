@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+synthpop = {editable = true, path = "."}
+numpy = "==1.22.4"
+networkx = "==2.8.2"
+defaults = {editable = true, path = "./../defaults"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

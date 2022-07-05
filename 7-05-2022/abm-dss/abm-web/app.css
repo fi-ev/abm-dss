@@ -1,0 +1,20 @@
+.header{
+    background-color: white;
+}
+
+.footer{
+    background-color: white;
+}
+
+.left-panel{
+    padding: 20px;
+}
+
+
+.parameter-tooltip{
+    margin-left:50px
+}
+
+.parameter-button{
+    margin: 10px
+}
